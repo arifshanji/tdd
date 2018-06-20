@@ -1,0 +1,15 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "js-mock": "^1.0.1",
+    "mocha": "^5.1.1"
+  }
+}
